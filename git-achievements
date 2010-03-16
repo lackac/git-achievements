@@ -325,6 +325,7 @@ function clean_logged_achievements() {
 function publish_achievements
 {
     gh_pages=`which git-achievements`
+    [ -L $gh_pages ] && gh_pages=`dirname $gh_pages`/`readlink $gh_pages`
     gh_pages=`dirname $gh_pages`
     cd $gh_pages
 
