@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Laszlo Bacsi's Git Achievements</title>
+<item><title>Apprentice Web Designer (Level 2)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
 <item><title>Apprentice Web Designer (Level 1)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 3)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Apprentice Tree Trimmer (Level 2)</title><description>Rewrite branches with git filter-branch</description></item>
@@ -19,5 +20,4 @@
 <item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Thug (Level 4)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Apprentice Thug (Level 3)</title><description>Forced pushed a branch with git push -f</description></item>
-<item><title>Master Historian (Level 7)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>
