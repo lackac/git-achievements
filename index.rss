@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Laszlo Bacsi's Git Achievements</title>
+<item><title>Inventor (undo)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Master Product Manager (Level 8)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Gipsy (Level 5)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Goldsmith (Level 4)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Thug (Level 5)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Apprentice Archivist (Level 3)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
-<item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
