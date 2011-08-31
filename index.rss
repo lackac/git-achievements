@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Laszlo Bacsi's Git Achievements</title>
+<item><title>Inventor (repl)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Inventor (count)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Inventor (summary)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Inventor (contrib)</title><description>Used a command that isn't part of the built in Git command</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Chimney Sweeper (Level 2)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 1)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Master Stone Mason (Level 9)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 </channel></rss>
