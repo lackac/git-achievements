@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Laszlo Bacsi's Git Achievements</title>
+<item><title>Apprentice Tree Trimmer (Level 3)</title><description>Rewrite branches with git filter-branch</description></item>
 <item><title>Inventor (repl)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Inventor (count)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Inventor (summary)</title><description>Used a command that isn't part of the built in Git command</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Tree Trimmer (Level 1)</title><description>Rewrite branches with git filter-branch</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 2)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
-<item><title>Apprentice Chimney Sweeper (Level 1)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 </channel></rss>
