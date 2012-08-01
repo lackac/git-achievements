@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Laszlo Bacsi's Git Achievements</title>
+<item><title>Butcher (Level 5)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Inventor (release)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Inventor (pull-request)</title><description>Used a command that isn't part of the built in Git command</description></item>
@@ -19,5 +20,4 @@
 <item><title>Inventor (summary)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Inventor (contrib)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Inventor (changelog)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Inventor (extras)</title><description>Used a command that isn't part of the built in Git command</description></item>
 </channel></rss>
